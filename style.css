@@ -1,0 +1,19 @@
+.calculator{
+    
+    width: 280px;
+    background-color: rgb(189, 199, 196);
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 50px;
+    border: 1px solid blue;
+}
+.btn{
+    font-size: 20px;
+    width: 59px;
+    border-radius: 25px;
+    
+}
+hr{color: blue;}
+p{
+    text-align: center;
+}
